@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to top right, rgb(108, 184, 219), white);
+}
+
+header{
+    background-color: rgb(37, 37, 37);
+    padding: 2px 0px 2px 0px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+header ul li{
+    display: inline;
+    color: white;
+    margin: 0px 5px 0px 5px;
+}
+
+.slider-img{
+    margin-top: 10px;
+    max-width: 100%; 
+    height: auto;
+}
+
+.p-text{
+    height: 410px;
+    column-count: 4;
+    column-gap: 20px;
+    column-rule: 3px solid gray;
+    text-align: justify;
+}
+
+footer{
+    background-color: rgb(37, 37, 37);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
